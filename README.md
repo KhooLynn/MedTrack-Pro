@@ -140,15 +140,39 @@ The application includes fictional patient, medication and symptom datasets in t
 
 These datasets are used to initialise the Room Database on the first launch so that the application can be explored without manually creating every patient record.
 
+
 ## 📸 Application Screenshots
 
-Screenshots of the main application screens will be added here, including:
+Here are some screenshots showing the main features of MedTrack Pro.
 
-- Patient login and home screen
-- Medication and symptom tracking
-- MedCoach drug information and AI-generated tips
-- Clinician dashboard
-- Patient Priority Radar
+### 🔐 Patient Account Management
+
+Patients can log in, create an account or claim an existing account.
+
+| Login | Claim Account |
+|:---:|:---:|
+| <img src="screenshots/Screenshot%20Login.png" width="260" alt="Patient Login"> | <img src="screenshots/Screenshot%20Claim%20Acc.png" width="260" alt="Claim Account"> |
+
+### 💊 Medication & Symptom Tracking
+
+Patients can manage medication schedules, track daily doses and record symptoms.
+
+| Medication Tracking | Add Medication |
+|:---:|:---:|
+| <img src="screenshots/Screenshot%20Homepage.png" width="260" alt="Medication Tracking"> | <img src="screenshots/Screenshot%20Add%20Med.png" width="260" alt="Add Medication"> |
+
+| Symptom Tracking | MedCoach |
+|:---:|:---:|
+| <img src="screenshots/Screenshot%20Symptoms.png" width="260" alt="Symptom Tracking"> | <img src="screenshots/Screenshot%20MedCoach.png" width="260" alt="MedCoach"> |
+
+### 📊 Patient Priority Radar
+
+My original feature extension, designed to organise patient records based on medication burden, symptom frequency and symptom severity.
+
+| Patient Overview | Priority Ranking |
+|:---:|:---:|
+| <img src="screenshots/Screenshot%201.png" width="260" alt="Patient Radar Overview"> | <img src="screenshots/Screenshot%202.png" width="260" alt="Patient Priority Ranking"> |
+
 
 ## 📚 Project Outcome & Reflection
 
