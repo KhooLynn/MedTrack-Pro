@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Medtrack</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_my_nav_host">MyNavHost</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_add_medications">AddMedications</string>
+    <string name="title_activity_sympthoms">Sympthoms</string>
+    <string name="title_activity_add_medication">AddMedication</string>
+    <string name="title_activity_symptoms">Symptoms</string>
+    <string name="title_activity_claim_login">ClaimLogin</string>
+    <string name="title_activity_claim_account">ClaimAccount</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_med_coach">MedCoach</string>
+    <string name="title_activity_clinician">Clinician</string>
+    <string name="title_activity_patient_radar">PatientRadar</string>
+    <string name="title_activity_clinician_login">ClinicianLogin</string>
+</resources>
